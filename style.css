@@ -1,0 +1,62 @@
+body {
+    background-color: #ffd502;
+    padding: 0%;
+    margin: 0%;
+}
+
+.head {
+    background-color: #ffffff;
+    ;
+    height: 6rem;
+
+}
+
+#beta {word-spacing: 300px;}
+p[id="beta"] > a {background-color: #429705; display: inline-block; width: 100px; border-radius: 5px; color: #ffd502;}
+
+.head>div {
+    text-align: center;
+}
+
+
+div[class="body"] {
+    background-color: #429705;
+    height: max-content;
+    width: 80vw;
+    margin: auto;
+    position: relative;
+    top: 5vh;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img {
+    float: left;
+    height: 300px;
+    border-radius: 10px;
+    border: solid #ffd502;
+    margin: 0% 10px 0% 10px;
+}
+
+h1 {
+    font-family: "Moo Lah Lah";
+    color: #429705;
+    text-shadow: #000000 10;
+}
+
+h2 {
+    font-family: "Caveat Brush";
+    font-size: xx-large;
+    display: inline;
+    color: white;
+}
+
+p {
+    margin: 10px;
+    color: #ffffff;
+}
+
+hr {
+    color: #ffd502;
+    border: solid;
+}
